@@ -35,7 +35,7 @@ This project is ideal for beginner developers who want to practice DOM manipulat
 
 ### 🎬 Demo
 
-[▶️ Click to watch demo](https://github.com/Al3k5a24/Color-Switcher/blob/main/recordings/demo.gif)
+https://github.com/Al3k5a24/Color-Switcher/blob/main/recordings/demo.gif
 
 ---
 
