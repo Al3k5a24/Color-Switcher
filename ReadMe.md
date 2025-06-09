@@ -50,9 +50,8 @@ This project is ideal for beginner developers who want to practice DOM manipulat
 
 ## 🙋‍♂️ Author
 
-Made with curiosity & creativity by [Aleksa Djekic](https://github.com/yourusername)  
+Made by [Aleksa Djekic](https://github.com/Al3k5a24))  
 📍 Serbia — Computer and Software Engineering student  
-💻 Focused on backend development and building a solid foundation in software engineering
 
 ---
 
