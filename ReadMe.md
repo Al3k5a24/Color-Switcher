@@ -54,5 +54,4 @@ Made by [Aleksa Djekic](https://github.com/Al3k5a24)
 
 📍 Serbia — Computer and Software Engineering student  
 
----
 
