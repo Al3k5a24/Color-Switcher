@@ -10,7 +10,7 @@ This project is ideal for beginner developers who want to practice DOM manipulat
 
 - [🎯 Features](#-features)
 - [🛠 Technologies Used](#-technologies-used)
-- [📸 Preview](#-preview)
+- [🎬 Demo](#-demo)
 - [🚀 How to Run](#-how-to-run)
 - [🙋‍♂️ Author](#-author)
 
@@ -33,10 +33,9 @@ This project is ideal for beginner developers who want to practice DOM manipulat
 
 ---
 
-## 📸 Preview
+### 🎬 Demo
 
-![Color Flipper Screenshot](screenshot.png)  
-> *(Optional: Add a screenshot of your project in this location)*
+[▶️ Click to watch demo](https://github.com/username/repo-name/blob/main/demo.mp4)
 
 ---
 
