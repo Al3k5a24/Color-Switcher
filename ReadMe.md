@@ -37,7 +37,6 @@ This project is ideal for beginner developers who want to practice DOM manipulat
 <p align="center">
   <img src="https://github.com/Al3k5a24/Color-Switcher/blob/main/recordings/demo.gif" alt="Coding GIF" width="500"/>
 </p>
----
 
 ## 🚀 How to Run
 
